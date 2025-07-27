@@ -1,9 +1,3 @@
-/*
-* LittleLink
-* https://littlelink.io
-* Free to use under the MIT license
-* http://www.opensource.org/licenses/mit-license.php
-*/
 
 /* Base Typography Settings
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -171,7 +165,8 @@ body {
 	margin-bottom:var(--spacing-m);
 }
 footer {
-	margin:var(--spacing-xl) 0;         	/* 3rem (48px) top and bottom */
+	margin:var(--spacing-xl) 0;
+	text-align:center;/* 3rem (48px) top and bottom */
 }
 }
 
