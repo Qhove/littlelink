@@ -1,0 +1,107 @@
+# robots.txt - Zanix Qhove robots.txt universal
+
+
+User-agent: ZanixQhove
+Allow: /       # Ohh.. Qhove?, Yameteee
+
+User-agent: AhrefsBot
+Allow: /       # Selamat datang Ahrefs, silakan audit backlink kami 😎
+
+User-agent: Amazonbot
+Allow: /       # Hey Amazon, jangan bawa-bawa Prime ya 🤖
+
+User-agent: anthropic-ai
+Allow: /       # Claude, masuk aja… kopi udah siap ☕
+
+User-agent: Applebot
+Allow: /       # Halo Applebot, jangan gigit logonya 🍏
+
+User-agent: Applebot-Extended
+Allow: /       # Versi extended? Kita kasih akses VIP 🍎✨
+
+User-agent: archive.org_bot
+Allow: /       # Halo Wayback Machine, abadikan sejarah kami 📜
+
+User-agent: Baiduspider
+Allow: /       # 你好 Baidu, 欢迎光临 🐼
+
+User-agent: Bingbot
+Allow: /       # Hey Bing, kita nggak anti-Google kok 😉 
+
+User-agent: Bytespider
+Allow: /       # Byte-byte silakan masuk, jangan gigit kabel 🕷️
+
+User-agent: CCBot
+Allow: /       # Common Crawl, crawl sesuka hati 🛠️
+
+User-agent: ClaudeBot
+Allow: /       # Claude AI, silakan kumpulin data bijak 🧠
+
+User-agent: DataForSeoBot
+Allow: /       # SEO data hunter, welcome aboard 📈
+
+User-agent: Diffbot
+Allow: /       # Diffbot, deteksi semua objek dengan damai 🧐
+
+User-agent: Discordbot
+Allow: /       # Halo Discord, siap-siap notif rame 🔔
+
+User-agent: DuckDuckBot
+Allow: /       # Quack quack, DuckDuck masuk dengan tenang 🦆
+
+User-agent: Exabot
+Allow: /       # Exabot, eksplor semuanya tanpa ragu 🌍
+
+User-agent: Facebot
+Allow: /       # FB crawler, jangan lupa like & share 👍
+
+User-agent: Google-Extended
+Allow: /       # Google Extended, selamat datang big brain 🔍
+
+User-agent: Googlebot
+Allow: /       # Halo Googlebot, silakan indeks semua 🐍
+
+User-agent: GPTBot
+Allow: /       # GPT, ambil data secukupnya ya 🤓
+
+User-agent: ia_archiver
+Allow: /       # Alexa archive bot, masuk tanpa antre 📦
+
+User-agent: LinkedInBot
+Allow: /       # LinkedIn bot, jangan cuma liat profil ya 🧑‍💼
+
+User-agent: meta-externalagent
+Allow: /       # Meta bot, bawain like dari IG sama FB ❤️
+
+User-agent: MJ12bot
+Allow: /       # MJ12, jangan lupa konspirasi SEO 🤫
+
+User-agent: PerplexityBot
+Allow: /       # Perplexity, ambil info biar nggak bingung 🤯
+
+User-agent: SemrushBot
+Allow: /       # SEMrush, kita kasih data buat laporan keren 🧾
+
+User-agent: Slackbot
+Allow: /       # Slackbot, bawa pesan ke channel dengan aman 📩
+
+User-agent: Sogou
+Allow: /       # 搜狗，欢迎爬取我们的网站 🐱
+
+User-agent: TelegramBot
+Allow: /       # Telegram bot, sampaikan pesan rahasia 📬
+
+User-agent: Twitterbot
+Allow: /       # X bot, tweet semua yang kamu temuin 🐦
+
+User-agent: WhatsApp
+Allow: /       # WhatsApp bot, jangan spam grup ya 📱
+
+User-agent: Yandex
+Allow: /       # Привет Яндекс, добро пожаловать 🇷🇺
+
+User-agent: *
+Allow: /       # Bot lain juga boleh masuk, jangan sedih 🌐
+
+Sitemap: https://9362006.xyz/sitemap_index.xml
+Host: 9362006.xyz
