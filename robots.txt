@@ -1,7 +1,8 @@
-# robots.txt - Zanix Qhove robots.txt universal
+# robots.txt - Zanix Qhove Universal
+# Versi: 2025-07-29 - FINAL
 
 User-agent: ZanixQhove
-Allow: /       # Ohh.. Qhove?, Yameteee
+Allow: /       # Ohh.. Qhove?, Yameteee 😆
 
 User-agent: AhrefsBot
 Allow: /       # Selamat datang Ahrefs, silakan audit backlink kami 😎
@@ -28,10 +29,10 @@ User-agent: Bingbot
 Allow: /       # Hey Bing, kita nggak anti-Google kok 😉 
 
 User-agent: Bytespider
-Allow: /       # Byte-byte silakan masuk, jangan gigit kabel 🕷️
+Allow: /       # Byte-byte silakan masuk, jangan gigit kabel 🪳
 
 User-agent: CCBot
-Allow: /       # Common Crawl, crawl sesuka hati 🛠️
+Allow: /       # Common Crawl, crawl sesuka hati 🚜
 
 User-agent: ClaudeBot
 Allow: /       # Claude AI, silakan kumpulin data bijak 🧠
@@ -40,7 +41,7 @@ User-agent: DataForSeoBot
 Allow: /       # SEO data hunter, welcome aboard 📈
 
 User-agent: Diffbot
-Allow: /       # Diffbot, deteksi semua objek dengan damai 🧐
+Allow: /       # Diffbot, deteksi semua objek dengan damai 🕊️
 
 User-agent: Discordbot
 Allow: /       # Halo Discord, siap-siap notif rame 🔔
@@ -61,25 +62,25 @@ User-agent: Googlebot
 Allow: /       # Halo Googlebot, silakan indeks semua 🐍
 
 User-agent: GPTBot
-Allow: /       # GPT, ambil data secukupnya ya 🤓
+Allow: /       # GPT, ambil data secukupnya ya 🤖
 
 User-agent: ia_archiver
 Allow: /       # Alexa archive bot, masuk tanpa antre 📦
 
 User-agent: LinkedInBot
-Allow: /       # LinkedIn bot, jangan cuma liat profil ya 🧑‍💼
+Allow: /       # LinkedIn bot, jangan cuma liat profil ya 👩‍💼
 
 User-agent: meta-externalagent
 Allow: /       # Meta bot, bawain like dari IG sama FB ❤️
 
 User-agent: MJ12bot
-Allow: /       # MJ12, jangan lupa konspirasi SEO 🤫
+Allow: /       # MJ12, jangan lupa konspirasi SEO 🧐
 
 User-agent: PerplexityBot
 Allow: /       # Perplexity, ambil info biar nggak bingung 🤯
 
 User-agent: SemrushBot
-Allow: /       # SEMrush, kita kasih data buat laporan keren 🧾
+Allow: /       # SEMrush, kita kasih data buat laporan keren 🧞
 
 User-agent: Slackbot
 Allow: /       # Slackbot, bawa pesan ke channel dengan aman 📩
@@ -101,6 +102,9 @@ Allow: /       # Привет Яндекс, добро пожаловать 🇷
 
 User-agent: *
 Allow: /       # Bot lain juga boleh masuk, jangan sedih 🌐
+
+# Optional: Biar server nggak ngos-ngosan
+Crawl-delay: 1
 
 Sitemap: https://9362006.xyz/sitemap_index.xml
 Host: 9362006.xyz
