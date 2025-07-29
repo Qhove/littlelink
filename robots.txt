@@ -1,6 +1,5 @@
 # robots.txt - Zanix Qhove robots.txt universal
 
-
 User-agent: ZanixQhove
 Allow: /       # Ohh.. Qhove?, Yameteee
 
