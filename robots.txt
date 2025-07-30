@@ -1,107 +1,141 @@
 # robots.txt - Zanix Qhove Universal
-# Versi: 2025-07-29 - FINAL
+# Versi: 2025-07-30 - FINAL++ ULTRA-DELUXE
 
 User-agent: ZanixQhove
 Allow: /       # Ohh.. Qhove?, Yameteee 😆
+Disallow: /cdn-cgi/       # Qhove, jangan ngintip gudang Cloudflare 😆
 
 User-agent: AhrefsBot
 Allow: /       # Selamat datang Ahrefs, silakan audit backlink kami 😎
+Disallow: /cdn-cgi/       # Tapi gak usah korek folder sampah 😎
 
 User-agent: Amazonbot
-Allow: /       # Hey Amazon, jangan bawa-bawa Prime ya 🤖
+Allow: /       # Hey Amazon, silakan jelajah 🤖
+Disallow: /cdn-cgi/       # Tapi jangan bawa Prime ke gudang 🤖
 
 User-agent: anthropic-ai
-Allow: /       # Claude, masuk aja… kopi udah siap ☕
+Allow: /       # Claude, kopi udah siap ☕
+Disallow: /cdn-cgi/       # Tapi bukan buat kamu yang ini ☕❌
 
 User-agent: Applebot
-Allow: /       # Halo Applebot, jangan gigit logonya 🍏
+Allow: /       # Halo Applebot, gigit halaman boleh 🍏
+Disallow: /cdn-cgi/       # Tapi jangan makan kulitnya 🍏❌
 
 User-agent: Applebot-Extended
-Allow: /       # Versi extended? Kita kasih akses VIP 🍎✨
+Allow: /       # Versi extended? Silakan! 🍎✨
+Disallow: /cdn-cgi/       # Tapi folder ini masih off limits 🍎❌
 
 User-agent: archive.org_bot
-Allow: /       # Halo Wayback Machine, abadikan sejarah kami 📜
+Allow: /       # Wayback Machine, abadikan semua 📜
+Disallow: /cdn-cgi/       # Tapi lewati yang ini, gak penting 📜❌
 
 User-agent: Baiduspider
-Allow: /       # 你好 Baidu, 欢迎光临 🐼
+Allow: /       # 欢迎 Baidu 🐼
+Disallow: /cdn-cgi/       # 这个目录不需要抓取 🐼❌
 
 User-agent: Bingbot
-Allow: /       # Hey Bing, kita nggak anti-Google kok 😉 
+Allow: /       # Halo Bing, santuy aja 😉 
+Disallow: /cdn-cgi/       # Tapi jangan iseng bongkar gudang 😉
 
 User-agent: Bytespider
-Allow: /       # Byte-byte silakan masuk, jangan gigit kabel 🪳
+Allow: /       # Byte-byte, masuk sopan ya 🪳
+Disallow: /cdn-cgi/       # Jangan ngegigit file rusak 🪳❌
 
 User-agent: CCBot
-Allow: /       # Common Crawl, crawl sesuka hati 🚜
+Allow: /       # Crawl sebebasnya 🚜
+Disallow: /cdn-cgi/       # Tapi bukan di tempat sampah 🚜❌
 
 User-agent: ClaudeBot
-Allow: /       # Claude AI, silakan kumpulin data bijak 🧠
+Allow: /       # Claude, silakan belajar 🧠
+Disallow: /cdn-cgi/       # Folder ini gak ada ilmunya 🧠❌
 
 User-agent: DataForSeoBot
-Allow: /       # SEO data hunter, welcome aboard 📈
+Allow: /       # Ambil data SEO sepuasnya 📈
+Disallow: /cdn-cgi/       # Tapi folder ini no-index 📉❌
 
 User-agent: Diffbot
-Allow: /       # Diffbot, deteksi semua objek dengan damai 🕊️
+Allow: /       # Deteksi objek sepuasnya 🕊️
+Disallow: /cdn-cgi/       # Tapi abaikan error folder 🕊️❌
 
 User-agent: Discordbot
-Allow: /       # Halo Discord, siap-siap notif rame 🔔
+Allow: /       # Halo Discord, preview bebas 🔔
+Disallow: /cdn-cgi/       # Tapi jangan preview error 🔕❌
 
 User-agent: DuckDuckBot
-Allow: /       # Quack quack, DuckDuck masuk dengan tenang 🦆
+Allow: /       # Quack in peace 🦆
+Disallow: /cdn-cgi/       # Jangan berenang ke situ 🦆❌
 
 User-agent: Exabot
-Allow: /       # Exabot, eksplor semuanya tanpa ragu 🌍
+Allow: /       # Eksplorasi tanpa ragu 🌍
+Disallow: /cdn-cgi/       # Tapi bukan jurang ini 🌍❌
 
 User-agent: Facebot
-Allow: /       # FB crawler, jangan lupa like & share 👍
+Allow: /       # Facebot, like semua 👍
+Disallow: /cdn-cgi/       # Tapi jangan share error 👍❌
 
 User-agent: Google-Extended
-Allow: /       # Google Extended, selamat datang big brain 🔍
+Allow: /       # Google Extended, masuk 🔍
+Disallow: /cdn-cgi/       # Tapi jangan deep crawl yang gak penting 🔍❌
 
 User-agent: Googlebot
-Allow: /       # Halo Googlebot, silakan indeks semua 🐍
+Allow: /       # Indeks semua Googlebot 🐍
+Disallow: /cdn-cgi/       # Tapi skip gudang gak jelas 🐍❌
 
 User-agent: GPTBot
-Allow: /       # GPT, ambil data secukupnya ya 🤖
+Allow: /       # GPT ambil data secukupnya 🤖
+Disallow: /cdn-cgi/       # Folder ini bukan buat lo 🤖❌
 
 User-agent: ia_archiver
-Allow: /       # Alexa archive bot, masuk tanpa antre 📦
+Allow: /       # Arsipkan sejarah kami 📦
+Disallow: /cdn-cgi/       # Jangan arsipkan error 📦❌
 
 User-agent: LinkedInBot
-Allow: /       # LinkedIn bot, jangan cuma liat profil ya 👩‍💼
+Allow: /       # LinkedIn, boleh stalking 👩‍💼
+Disallow: /cdn-cgi/       # Tapi jangan curi data rusak 👩‍💼❌
 
 User-agent: meta-externalagent
-Allow: /       # Meta bot, bawain like dari IG sama FB ❤️
+Allow: /       # Meta bot boleh nyari konten ❤️
+Disallow: /cdn-cgi/       # Tapi jangan repost folder jelek ❤️❌
 
 User-agent: MJ12bot
-Allow: /       # MJ12, jangan lupa konspirasi SEO 🧐
+Allow: /       # MJ12, silakan cari konspirasi 🧐
+Disallow: /cdn-cgi/       # Tapi bukan dari sini 🧐❌
 
 User-agent: PerplexityBot
-Allow: /       # Perplexity, ambil info biar nggak bingung 🤯
+Allow: /       # Biar gak bingung, silakan telusuri 🤯
+Disallow: /cdn-cgi/       # Tapi folder ini bikin tambah bingung 🤯❌
 
 User-agent: SemrushBot
-Allow: /       # SEMrush, kita kasih data buat laporan keren 🧞
+Allow: /       # Audit SEO kita bebas 🧞
+Disallow: /cdn-cgi/       # Tapi jangan catat yang gak penting 🧞❌
 
 User-agent: Slackbot
-Allow: /       # Slackbot, bawa pesan ke channel dengan aman 📩
+Allow: /       # Slackbot, preview link sepuasnya 📩
+Disallow: /cdn-cgi/       # Tapi jangan yang rusak 📩❌
 
 User-agent: Sogou
-Allow: /       # 搜狗，欢迎爬取我们的网站 🐱
+Allow: /       # 欢迎，Sogou 🐱
+Disallow: /cdn-cgi/       # 这个页面请忽略 🐱❌
 
 User-agent: TelegramBot
-Allow: /       # Telegram bot, sampaikan pesan rahasia 📬
+Allow: /       # Telegram, sampaikan pesan 📬
+Disallow: /cdn-cgi/       # Tapi jangan bawa error 📬❌
 
 User-agent: Twitterbot
-Allow: /       # X bot, tweet semua yang kamu temuin 🐦
+Allow: /       # Tweet semua link 🐦
+Disallow: /cdn-cgi/       # Tapi jangan trendingin error 🐦❌
 
 User-agent: WhatsApp
-Allow: /       # WhatsApp bot, jangan spam grup ya 📱
+Allow: /       # WhatsApp bot, masuk grup 📱
+Disallow: /cdn-cgi/       # Tapi jangan kirim folder ini 📱❌
 
 User-agent: Yandex
 Allow: /       # Привет Яндекс, добро пожаловать 🇷🇺
+Disallow: /cdn-cgi/       # Но не сюда 🇷🇺❌
 
 User-agent: *
-Allow: /       # Bot lain juga boleh masuk, jangan sedih 🌐
+Allow: /       # Bot lainnya boleh masuk 🌐
+Disallow: /cdn-cgi/       # Tapi jangan usil di gudang 🌐❌
 
 # Optional: Biar server nggak ngos-ngosan
 Crawl-delay: 1
