@@ -42,6 +42,7 @@
 .button-blogspot {
     --button-text: #000000;
     --button-background: #ff4000;
+    --button-border: 1px solid #FFFFFF;
 }
 
 /* Amazon */
