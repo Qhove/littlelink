@@ -40,9 +40,15 @@
 
 /* Blogspot */
 .button-blogspot {
-    --button-text: #000000;
-    --button-background: #ff4000;
-    --button-border: 1px solid #FFFFFF;
+    color: var(--button-text);
+    background: var(--button-background);
+    border: var(--button-border);
+    transition: all 0.3s ease;
+}
+
+.button-blogspot:hover {
+    background: #cc3300;
+    transform: scale(1.05);
 }
 
 /* Amazon */
