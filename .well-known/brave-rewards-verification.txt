@@ -1,4 +1,4 @@
 This is a Brave Creators publisher verification file.
 
 Domain: 9362006.xyz
-Token: cf05a0180266c98510f2a88b20a14604993205a8f18631005872ab00388694a2
+Token: 307b8168c2c76a715861f51fdefc14c355e43434d92d6c846d5a4c50bdeea8e5
