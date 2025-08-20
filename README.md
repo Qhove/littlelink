@@ -1,4 +1,4 @@
-# Hi, I'm Qhove 👋
+# Hi, I'm Zanix Qhove 👋
 
 **"I Do Everything I Want To Do."**
 
@@ -15,13 +15,15 @@
 
 ## 🌟 Favorite Project
 
-- [ZQ-Link](https://github.com/Qhove/ZQ-Link) — a handy Link Hub to organize and share your favorite links
+- [ZQ-Link](https://github.com/Qhove/ZQ-Link) — a handy Link Hub to organize and share my profile links
 
 ---
 
 ## 📫 Connect
 
 - 🌐 Website: [9362006.xyz](https://9362006.xyz)
+
+- 🌐 Website: [bug.my.id](https://www.bug.my.id)
 
 ---
 
