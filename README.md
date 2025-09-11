@@ -23,7 +23,11 @@
 
 - 🌐 Website: [9362006.xyz](https://9362006.xyz)
 
-- 🌐 Website: [bug.my.id](https://www.bug.my.id)
+- 🌐 Website: [zanix.my.id](https://www.zanix.my.id)
+
+- 🌐 Website: [qhove.my.id](https://www.qhove.my.id)
+
+- 🌐 Website: [9899989.xyz](https://www.9899989.xyz)
 
 ---
 
